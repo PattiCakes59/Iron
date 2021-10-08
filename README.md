@@ -12,7 +12,7 @@ Sellers tell us their target sale price, and we determine if its realistic, or w
 
 # Data
 We were provided data on the King County housing market. With this data we were able to extrapolate a few key variables. We created new columns from existing ones in order to take a closer look at what the data was really telling us.
-
+![Heatmap](Project2DataVisualization/heatmap.png)
 # Results
 ## Final Regression Model
  ![Screen%20Shot%202021-10-08%20at%209.01.10%20AM.png](attachment:Screen%20Shot%202021-10-08%20at%209.01.10%20AM.png)
