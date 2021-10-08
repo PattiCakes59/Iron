@@ -3,15 +3,15 @@
 Samanthat Nast, Paul Sin and Patrick Ryan
 ![HomepriceInc](https://mrwilliamsburg.com/wp-content/uploads/2021/03/williamsburg-home-prices.jpg)
 
-## Overview
+# Overview
 
 Iron Realty is a full-service real estate agency that specializes in providing homeowners with the tools necessary to sell their homes at their maximum potential. We performed an in-depth analysis of public data containing details about home sales in King County, WA. We used this analysis to develop a linear regression model that will help our clients meet their desired sale price goal. We have identified three influential selling price indicators that can be applied to our linear regression model to generate a feasible estimate for our client's home.
 
-## Business Problem
+# Business Problem
 We want our sellers to get the highest sale price possible for their house.
 Sellers tell us their target sale price, and we determine if its realistic, or what they need to do to get to that price. Or, even better - if they can ask for more!
 
-## Data
+# Data
 We were provided data on the King County housing market. Witht this data we were able to extrapolate a few key variables. We created new columns from existing ones in order to take a closer look at what the data was really telling us.
 
 # Results
