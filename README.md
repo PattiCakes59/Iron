@@ -15,7 +15,7 @@ We were provided data on the King County housing market. With this data we were 
 ![Heatmap](Project2DataVisualization/heatmap.png)
 # Results
 ## Final Regression Model
- ![Screen%20Shot%202021-10-08%20at%209.01.10%20AM.png](attachment:Screen%20Shot%202021-10-08%20at%209.01.10%20AM.png)
+ ![finalregression](Phase2Project/FinalRegression.png)
 
 ![bar plot](Project2DataVisualization/bar_r2_err.png)
  - This plot indicates that our model has no overfitting.
