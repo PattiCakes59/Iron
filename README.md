@@ -1,6 +1,6 @@
 ![Screen%20Shot%202021-10-07%20at%207.54.36%20AM-2.png](attachment:Screen%20Shot%202021-10-07%20at%207.54.36%20AM-2.png)
 # <u>Iron Realty</u>
-Samanthat Nast, Paul Sin and Patrick Ryan
+Samanthat Nasti, Patrick Ryan, Paul Shin
 ![HomepriceInc](https://mrwilliamsburg.com/wp-content/uploads/2021/03/williamsburg-home-prices.jpg)
 
 # Overview
