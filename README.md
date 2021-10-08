@@ -39,13 +39,13 @@ The condition of the house is another important statistic. The condition directl
 ![lat_visualization.png](attachment:lat_visualization.png)
 
 #### Final Regression Model
-- Pros:
-Our final model has an r-squared-adjusted value of 0.531 and utilizes 6 features which means that we may explain 53.1% of the variance in home prices in the King County area using just those 6 features.
-Our model performs almost equally well with both test and train datasets which means we certainly did not overfit our model.
+**Pros:**
+- Our final model has an r-squared-adjusted value of 0.531 and utilizes 6 features which means that we may explain 53.1% of the variance in home prices in the King County area using just those 6 features.
+- Our model performs almost equally well with both test and train datasets which means we certainly did not overfit our model.
 
-- Cons
-Our RMSE is around 220k USD which lowers our confidence considering the fact that our median home price of our original dataset 450k USD.
-We eliminated a lot of variables so our model is limited to just 6 variables. If we conduct the future analysis, adding more features might result in more accurate model.
+**Cons:**
+- Our RMSE is around 220k USD which lowers our confidence considering the fact that our median home price of our original dataset 450k USD.
+- We eliminated a lot of variables so our model is limited to just 6 variables. If we conduct the future analysis, adding more features might result in more accurate model.
 
  ![Screen%20Shot%202021-10-08%20at%209.01.10%20AM.png](attachment:Screen%20Shot%202021-10-08%20at%209.01.10%20AM.png)
 
