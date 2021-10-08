@@ -12,7 +12,7 @@ We want our sellers to get the highest sale price possible for their house.
 Sellers tell us their target sale price, and we determine if its realistic, or what they need to do to get to that price. Or, even better - if they can ask for more!
 
 # Data
-We were provided data on the King County housing market. Witht this data we were able to extrapolate a few key variables. We created new columns from existing ones in order to take a closer look at what the data was really telling us.
+We were provided data on the King County housing market. With this data we were able to extrapolate a few key variables. We created new columns from existing ones in order to take a closer look at what the data was really telling us.
 
 # Results
 ## Final Regression Model
