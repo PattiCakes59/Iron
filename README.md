@@ -17,7 +17,7 @@ We were provided data on the King County housing market. With this data we were 
 ## Final Regression Model
  ![Screen%20Shot%202021-10-08%20at%209.01.10%20AM.png](attachment:Screen%20Shot%202021-10-08%20at%209.01.10%20AM.png)
 
-![Screen%20Shot%202021-10-08%20at%208.57.58%20AM.png](attachment:Screen%20Shot%202021-10-08%20at%208.57.58%20AM.png)
+![bar plot](Project2DataVisualization/bar_r2_err.png)
  - This plot indicates that our model has no overfitting.
 
 **Pros:**
@@ -35,17 +35,17 @@ We were provided data on the King County housing market. With this data we were 
 
 ## Bedroom/SQFT Living Space
 This variable is significant because it concludes that bedrooms are a contributing factor to the price of a home. In order to get a positive return on a renovation or expansion of livable square footage a good suggestion would be to use the space for a bedroom. 
- ![Screen%20Shot%202021-10-08%20at%209.04.24%20AM.png](attachment:Screen%20Shot%202021-10-08%20at%209.04.24%20AM.png)
+ ![bedrooms](Project2DataVisualization/Scat_log_bed_sqft.png)
 
 ## Condition of the housing.
 The condition of the house is another important statistic. The condition directly contributes to the price of the house when selling it or buying it. As seen below in the box chart as the condition gets better the value of the house goes up.
- ![Screen%20Shot%202021-10-08%20at%209.05.21%20AM.png](attachment:Screen%20Shot%202021-10-08%20at%209.05.21%20AM.png)
+ ![condition](Project2DataVisualization/Condition_Price.png)
 
 ## Location of Housing
 - We identified a strong correlation between the latitude and home price, so we used latitude in our model to represent the location of the home being evaluated.
 - We used our data to generate a map that shows the sale prices of each data point and exactly where it is located.
 - In this map, you can see that higher prices for past home sales occur slightly higher up on the map surrounding certain metropolitan areas. Therefore, this information gives us a great starting point in terms of knowing what we can expect to sell the home for based on the surrounding area’s sales in the past.
-![lat_visualization.png](attachment:lat_visualization.png)
+![lat_visualization.png](Project2DataVisualization/latitude.png)
 
 # Conclusion
 - Our modeling process confirmed that there are significant elements that influence the perceived value of a home.
